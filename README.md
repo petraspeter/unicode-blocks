@@ -1,7 +1,7 @@
 # unicode-blocks
 Dataset of unicode blocks in .xml format for android usage.
 
-Renaming strategy for block name can be fined in [rename.java](https://www.google.com) 
+Renaming strategy for block name can be fined in [Rename.java](https://github.com/petraspeter/unicode-blocks/blob/master/rename.java) 
 For each block there are 2 arrays: renamed block + `_name` & renamed block + `_code_point`
 
 Dataset contains:
