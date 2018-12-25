@@ -2,7 +2,7 @@
 # unicode-blocks
 Dataset of unicode blocks in .xml format for android usage.   
 Renaming strategy for list below can be fined in [Rename.java](https://github.com/petraspeter/unicode-blocks/blob/master/rename.java). 
-E.g.: ``Latin-1 Supplement`` return you a ``Latin-1 Supplement``  
+E.g.: ``Latin-1 Supplement`` return you a ``latin1_supplement``  
 For each block there are 2 arrays: renamed block + `_name` & renamed block + `_code_point`
 
 Dataset contains:
